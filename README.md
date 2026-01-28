@@ -32,7 +32,7 @@ I am a **Software Developer** and **QA Specialist** with a passion for building 
 ---
 
 ### 📊 My Stats
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyBurt&show_icons=true&theme=gruvbox&count_private=true)
+![Anthony's GitHub stats](https://github-readme-stats-d0mtqkbi7-anthony-burts-projects.vercel.app/api?username=AnthonyBurt&show_icons=true&theme=gruvbox&count_private=true)
 
 ### 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyBurt&layout=compact&theme=gruvbox)
+![Top Langs]([https://github-readme-stats-d0mtqkbi7-anthony-burts-projects.vercel.app/api/top-langs/?username=AnthonyBurt&layout=compact&theme=gruvbox)
