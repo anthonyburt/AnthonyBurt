@@ -6,10 +6,9 @@ I am a **Software Developer** and **QA Specialist** with a passion for building 
 - 🛠️ **Expertise:** Bridging the gap between code and quality using **Java**, **TypeScript**, and advanced automation frameworks like **Playwright** and **Selenium**.
 - 📜 **Certified:** ISTQB Certified Test Manager (CTAL-TM).
 - 🎲 **Outside of Code:** Big fan of board games, Magic: The Gathering, and tracking the NBA.
-- 👨‍👩‍👧‍👦 **Big Shoutout:** My incredible family is my biggest motivation. Everything I build is for my wife and my kids! ❤️
+- ❤️ **Big Shoutout:** My incredible family is my biggest motivation. Everything I build is for my wife and my kids, Austin and Emilee.
 
 ---
-
 
 ### 🛠️ Frameworks & Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,7 +31,8 @@ I am a **Software Developer** and **QA Specialist** with a passion for building 
 ---
 
 ### 📊 My Stats
-![Anthony's GitHub stats](https://github-readme-stats-d0mtqkbi7-anthony-burts-projects.vercel.app/api?username=AnthonyBurt&show_icons=true&theme=gruvbox&count_private=true)
+![Anthony's GitHub stats](https://github-readme-stats-owjrvvxun-anthony-burts-projects.vercel.app/api?username=AnthonyBurt&show_icons=true&theme=gruvbox&count_private=true)
 
 ### 🚀 Top Languages
-![Top Langs]([https://github-readme-stats-d0mtqkbi7-anthony-burts-projects.vercel.app/api/top-langs/?username=AnthonyBurt&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats-owjrvvxun-anthony-burts-projects.vercel.app/api/top-langs/?username=AnthonyBurt&layout=compact&theme=gruvbox)
+- 👨‍👩‍👧‍👦 **Big Shoutout:** My incredible family is my biggest motivation. Everything I build is for my wife and my kids! ❤️
