@@ -6,7 +6,7 @@ I am a **Software Developer** and **QA Specialist** with a passion for building 
 - 🛠️ **Expertise:** Bridging the gap between code and quality using **Java**, **TypeScript**, and advanced automation frameworks like **Playwright** and **Selenium**.
 - 📜 **Certified:** ISTQB Certified Test Manager (CTAL-TM).
 - 🎲 **Outside of Code:** Big fan of board games, Magic: The Gathering, and tracking the NBA.
-- ❤️ **Big Shoutout:** My incredible family is my biggest motivation. Everything I build is for my wife and my kids, Austin and Emilee.
+- ❤️ **Big Shoutout:** My incredible family is my biggest motivation. Everything I build is for my wife and my kids!
 
 ---
 
