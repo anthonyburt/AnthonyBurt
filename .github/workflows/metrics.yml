@@ -16,25 +16,29 @@ jobs:
           template: classic
           base: header, metadata
           config_timezone: America/New_York
-          
-          # Sets a professional high-contrast look
           config_display: large
           
-          # Coding Habits - Fixed the 'author' error by narrowing event fetch
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          # Languages - Shows your deep TypeScript expertise
+          # 1. Activity - Replaces the broken habits plugin. 
+          # Shows a clean list of your most recent commits and events.
+          plugin_activity: yes
+          plugin_activity_limit: 8     # Shows a more substantial list
+          plugin_activity_days: 30     # Looks back a full month
+          plugin_activity_filter: push, issue, pull_request, member
+
+          # 2. Achievements - Great for a "Senior/Lead" profile.
+          # Shows milestones like "Pull Shark" or "Commit Streak".
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+
+          # 3. Languages - Your strongest asset (80%+ TypeScript)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           
-          # Lines of Code - Replaces the 'odd' calendar with readable stats
+          # 4. Lines of Code - Shows the total volume of work
           plugin_lines: yes
           
-          # Repositories - Optional: set to 'owner' to avoid leaking client work
+          # 5. Repositories - Kept to 'owner' as requested
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
