@@ -24,6 +24,8 @@ jobs:
           plugin_activity_limit: 8     # Shows a more substantial list
           plugin_activity_days: 30     # Looks back a full month
           plugin_activity_filter: push, issue, pull_request, member
+          # This ignores the bots that are crashing the plugin
+          plugin_activity_ignored: bot@nexus.com, renovate-bot@tabletop-nexus.com
 
           # 2. Achievements - Great for a "Senior/Lead" profile.
           # Shows milestones like "Pull Shark" or "Commit Streak".
