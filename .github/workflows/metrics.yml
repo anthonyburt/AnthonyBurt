@@ -14,19 +14,23 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: anthonyburt
           template: terminal
-          base: header, community, metadata
+          # Use 'header' and 'metadata' to keep it focused on code, not social stats
+          base: header, metadata 
           config_timezone: America/New_York
           
-          # Habits plugin - highlights your productivity patterns
+          # HIDE THE PURPLE: Use a different color palette
+          # Options: 'classic', 'terminal', 'repository'
+          # We can also force a dark theme to keep it professional
+          config_theme: dark 
+          
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          
+          # BETTER ACTIVITY: Replace isocalendar with 'lines' and 'habits'
+          # This shows your actual code impact rather than a tiny 3D map
+          plugin_lines: yes
+          
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          
-          # Languages plugin - aggregates private and public code
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          
-          # Isometric calendar - 3D visualization of your contributions
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_habits_days: 14
