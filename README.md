@@ -11,4 +11,4 @@ I am a **Software Developer** and **QA Specialist** with a passion for building 
 ---
 
 ### 🖥️ Engineering Dashboard
-![GitHub Metrics](github-metrics.svg?v=1.1)
+![Engineering Dashboard](github-metrics.svg?v=1)
